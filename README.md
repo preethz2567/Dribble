@@ -29,7 +29,7 @@ Publish the website in the LocalHost.
 html content
 ```
 <html>
-    <meta charset="UTF-8">C
+    <meta charset="UTF-8">
 <head>
     <title>Dribble </title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
