@@ -53,6 +53,7 @@ html content
         </div>
         <a class="btn  text-white" href="#">Sign in</a>
         <a class="btn  text-white" href="#">Sign Up</a>
+        <input type="search" class=" form-control fs-8" style="margin: 7px; width: 150px; margin-right:7px ;" placeholder="Search">
     </div>
     
     </nav>
@@ -306,8 +307,7 @@ footer {
 ```
 ## OUTPUT:
 
-   ![alt text](ex10-1.png)
-
+   ![alt text](ex10.png)
    ![alt text](ex10-2.png)
 
 
