@@ -307,7 +307,7 @@ footer {
 ```
 ## OUTPUT:
 
-   ![alt text](ex10.png)
+   ![alt text](ex10-img1.png)
    ![alt text](ex10-2.png)
 
 
